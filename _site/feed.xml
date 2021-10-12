@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2021-10-12T03:56:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Yihang Research</title><subtitle>Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately</subtitle><author><name>Yihang Wang</name></author><entry><title type="html">Time flies</title><link href="http://localhost:4000/memoery/2021/09/09/group_party/" rel="alternate" type="text/html" title="Time flies" /><published>2021-09-09T00:00:00+01:00</published><updated>2021-09-09T00:00:00+01:00</updated><id>http://localhost:4000/memoery/2021/09/09/group_party</id><content type="html" xml:base="http://localhost:4000/memoery/2021/09/09/group_party/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/assets/img/2021-09-09/group_party.jpg&quot; alt=&quot;“Hi Eric Bye Pavan” party&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;“Hi Eric Bye Pavan” party&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Can’t imagine that I have already started my fifth-year Ph.D., which also means that I have been enjoying the fun of science in Dr. Tiwary’s lab for more than four years.&lt;/p&gt;
+
+&lt;p&gt;When we took the picture below, I was just a rotation student in the group. I didn’t really expect that I could meet so many interesting people and work with them.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/assets/img/2021-09-09/first_Group_outing.jpg&quot; alt=&quot;my first Tiwary group outing on 2017-09-01&quot; width=&quot;200&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;my first Tiwary group outing on 2017-09-01&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Yihang Wang</name></author><category term="Memoery" /><summary type="html">“Hi Eric Bye Pavan” party Can’t imagine that I have already started my fifth-year Ph.D., which also means that I have been enjoying the fun of science in Dr. Tiwary’s lab for more than four years. When we took the picture below, I was just a rotation student in the group. I didn’t really expect that I could meet so many interesting people and work with them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Improve the sampling quality with the help of generative AI</title><link href="http://localhost:4000/research/2021/07/15/DDPM_REMD/" rel="alternate" type="text/html" title="Improve the sampling quality with the help of generative AI" /><published>2021-07-15T00:00:00+01:00</published><updated>2021-07-15T00:00:00+01:00</updated><id>http://localhost:4000/research/2021/07/15/DDPM_REMD</id><content type="html" xml:base="http://localhost:4000/research/2021/07/15/DDPM_REMD/">&lt;p&gt;To decipher how a biomolecular interacts with the environment, just knowing one of its static structures is not enough. Those biomolecules are adopting different poses in cells. An ensemble of these poses reveals more information about the system. In this project, we explore the possibility of using generative AI to generarte these poses.&lt;/p&gt;
+
+&lt;p&gt;Of course, we can use a molecular dynamics (MD) simulation to generate different poses(states) of biomolecules. However, due to the sampling issue, the distribution of states may deviate from the equilibrium distribution. Even with the help of the enhanced sampling methods, this can still be a problem due to the limited computational resources. For example, as shown below, the states indicated by the black arrows were not sampled in a replica exchange molecular dynamics simulation. Though the simulation went to those states in higher temperature replicas, it is hard to use that information to tell us how those states should distribute at lower temperatures.&lt;/p&gt;
+
+&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/assets/img/2021-07-15/REMD.png&quot; alt=&quot;sample from replica exchange molecular dynamics&quot; width=&quot;600&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;sample from replica exchange molecular dynamics&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We use a recently developed generative AI model called the denoising diffusion probabilistic model to solve this problem. As illustrated by the figure below, the model is trained to reverse a forward diffusion process that starts with the target distribution and move towards an easy-to-sample distribution. The nice thing about such a design is that if we set the forward process to be the Ornstein–Uhlenbeck process, the diffusion kernel for the reversed process would also follow a Gaussian distribution, which can be easily learn by a neural network. With this model, we can generate samples from a complicated distribution by passing samples from the easy-to-sample distribution through the reverse process.&lt;/p&gt;
+
+&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/assets/img/2021-07-15/DDPM_illustration.png&quot; alt=&quot;denoising diffusion probabilistic model&quot; width=&quot;10000&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;denoising diffusion probabilistic model&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When applying this model to REMD data, we used it to learn the joint distribution $P(\mathbf{x}, T)$, where $\mathbf{x}$ denotes a state and $T$ is the temperature. This strategy allows the model to look at distribution at different temperatures and infer the underlying relationship. The figure below shows that the DDPM model can generate states that were not sampled in the simulation.&lt;/p&gt;
+
+&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/assets/img/2021-07-15/DDPM.png&quot; alt=&quot;sample from replica exchange molecular dynamics&quot; width=&quot;600&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;sample from replica exchange molecular dynamics&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A full version of the paper can be found &lt;a href=&quot;https://arxiv.org/pdf/2107.07369.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Yihang Wang</name></author><category term="Research" /><summary type="html">A breif introduction about our recent work about applying generative AI to generate molecular configurations.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/2560/600?image=733" /><media:content medium="image" url="https://picsum.photos/2560/600?image=733" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
