@@ -8,7 +8,7 @@ excerpt: "An overview of my research"
 ### Projects
 
 
-##### Learning the reaction cooridnate on-the-fly 
+##### Learning the reaction coordinate on-the-fly 
 
 Finding reaction coordinates (RCs) is the key to the success of most enhanced sampling methods. Usually, the finding of RCs requires prior knowledge or human intuition which is not always reliable. I am developing new methods to automate the finding of RC to accelerate the sampling of the configuration space of complex (bio)molecular systems, making it possible to calculate various thermodynamic and kinetic observables. I also apply these methods to study the conformational changes of proteins and ligand dissociation from RNAs or proteins.
 
