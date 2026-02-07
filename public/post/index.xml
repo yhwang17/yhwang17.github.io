@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Wang Research Group</title>
+    <link>http://localhost:63890/post/</link>
+      <atom:link href="http://localhost:63890/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome Yiming to the Group!</title>
+      <link>http://localhost:63890/post/25-12-01-welcome-yiming/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-12-01-welcome-yiming/</guid>
+      <description>&lt;p&gt;We are excited to welcome &lt;a href=&#34;http://localhost:63890/author/yiming/&#34;&gt;Yiming Chen&lt;/a&gt; to the lab! Yiming is a graduate student in the Department of Statistics. His research focuses on Bayesian Machine Learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome Our New PhD Students!</title>
+      <link>http://localhost:63890/post/25-11-21-new_members/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-11-21-new_members/</guid>
+      <description>&lt;p&gt;Our team is growing! We are happy to welcome two new PhD students, &lt;a href=&#34;http://localhost:63890/author/sulekha/&#34;&gt;Sulekha&lt;/a&gt; and &lt;a href=&#34;http://localhost:63890/author/nour/&#34;&gt;Nour&lt;/a&gt; to the lab! Their fresh ideas and diverse expertise will play a key role in pushing our research forward.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Publication from the Group</title>
+      <link>http://localhost:63890/post/25-11-18-first-publication/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-11-18-first-publication/</guid>
+      <description>&lt;p&gt;Our first publication is online: &lt;a href=&#34;https://arxiv.org/pdf/2508.14658&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2508.14658&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

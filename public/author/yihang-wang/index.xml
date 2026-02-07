@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yihang Wang | Wang Research Group</title>
+    <link>http://localhost:63890/author/yihang-wang/</link>
+      <atom:link href="http://localhost:63890/author/yihang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yihang Wang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:63890/author/yihang-wang/avatar_hu_74bbe3eb237291b9.jpg</url>
+      <title>Yihang Wang</title>
+      <link>http://localhost:63890/author/yihang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Welcome Yiming to the Group!</title>
+      <link>http://localhost:63890/post/25-12-01-welcome-yiming/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-12-01-welcome-yiming/</guid>
+      <description>&lt;p&gt;We are excited to welcome &lt;a href=&#34;http://localhost:63890/author/yiming/&#34;&gt;Yiming Chen&lt;/a&gt; to the lab! Yiming is a graduate student in the Department of Statistics. His research focuses on Bayesian Machine Learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Publication from the Group</title>
+      <link>http://localhost:63890/post/25-11-18-first-publication/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-11-18-first-publication/</guid>
+      <description>&lt;p&gt;Our first publication is online: &lt;a href=&#34;https://arxiv.org/pdf/2508.14658&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2508.14658&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

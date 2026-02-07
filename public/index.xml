@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Research Group</title>
+    <link>http://localhost:63890/</link>
+      <atom:link href="http://localhost:63890/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Research Group</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome Yiming to the Group!</title>
+      <link>http://localhost:63890/post/25-12-01-welcome-yiming/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-12-01-welcome-yiming/</guid>
+      <description>&lt;p&gt;We are excited to welcome &lt;a href=&#34;http://localhost:63890/author/yiming/&#34;&gt;Yiming Chen&lt;/a&gt; to the lab! Yiming is a graduate student in the Department of Statistics. His research focuses on Bayesian Machine Learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome Our New PhD Students!</title>
+      <link>http://localhost:63890/post/25-11-21-new_members/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-11-21-new_members/</guid>
+      <description>&lt;p&gt;Our team is growing! We are happy to welcome two new PhD students, &lt;a href=&#34;http://localhost:63890/author/sulekha/&#34;&gt;Sulekha&lt;/a&gt; and &lt;a href=&#34;http://localhost:63890/author/nour/&#34;&gt;Nour&lt;/a&gt; to the lab! Their fresh ideas and diverse expertise will play a key role in pushing our research forward.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Publication from the Group</title>
+      <link>http://localhost:63890/post/25-11-18-first-publication/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/post/25-11-18-first-publication/</guid>
+      <description>&lt;p&gt;Our first publication is online: &lt;a href=&#34;https://arxiv.org/pdf/2508.14658&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2508.14658&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Thermally Activated Snap-through Transitions Controlled by Tunable Metastability</title>
+      <link>http://localhost:63890/publication/preprint/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/publication/preprint/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:63890/tour/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Join Us</title>
+      <link>http://localhost:63890/join-us/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/join-us/</guid>
+      <description>&lt;p&gt;We are particularly excited by questions such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How can we build &lt;strong&gt;accurate and efficient models&lt;/strong&gt; for large biomolecular systems across time and length scales?&lt;/li&gt;
+&lt;li&gt;Can we develop &lt;strong&gt;transferable enhanced sampling strategies&lt;/strong&gt; that go beyond a single system?&lt;/li&gt;
+&lt;li&gt;Instead of making AI &lt;em&gt;explainable&lt;/em&gt;, can we use &lt;strong&gt;AI to explain molecular dynamics simulations&lt;/strong&gt; themselves?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To tackle these challenges, we combine &lt;strong&gt;statistical mechanics, molecular dynamics, and machine learning&lt;/strong&gt;, and we actively seek new ways to rethink long-standing problems in molecular science.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;who-were-looking-for&#34;&gt;Who We’re Looking For&lt;/h2&gt;
+&lt;p&gt;We welcome &lt;strong&gt;curious and motivated researchers&lt;/strong&gt; from diverse backgrounds, including (but not limited to):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chemistry&lt;/li&gt;
+&lt;li&gt;Physics&lt;/li&gt;
+&lt;li&gt;Biophysics&lt;/li&gt;
+&lt;li&gt;Biology&lt;/li&gt;
+&lt;li&gt;Computer Science&lt;/li&gt;
+&lt;li&gt;Applied Mathematics&lt;/li&gt;
+&lt;li&gt;Materials Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Experience with &lt;strong&gt;enhanced sampling, coarse-grained modeling, or AI for chemistry&lt;/strong&gt; is a plus—but not a requirement.&lt;br&gt;
+What matters most is intellectual curiosity, a strong quantitative foundation, and an interest in interdisciplinary research.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;open-positions&#34;&gt;Open Positions&lt;/h2&gt;
+&lt;p&gt;📢 &lt;strong&gt;We are actively recruiting:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PhD students&lt;/strong&gt; (Fall 2027)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Postdoctoral researchers&lt;/strong&gt; (starting 2026 or later)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There may be an opening for a &lt;strong&gt;Fall 2026 PhD position&lt;/strong&gt;.&lt;br&gt;
+If you are interested, please reach out as soon as possible.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
+&lt;p&gt;Please email the following materials to:&lt;/p&gt;
+&lt;p&gt;📧 &lt;strong&gt;yxw2626[at]case.edu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Curriculum Vitae (CV)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;brief description of your research interests&lt;/strong&gt; (1–2 paragraphs is sufficient)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Email subject line format:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD applicants:&lt;br&gt;
+&lt;code&gt;[Application] PhD – Your Name – Current Institution&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Postdoctoral applicants:&lt;br&gt;
+&lt;code&gt;[Application] Postdoc – Your Name – Current Institution – Proposed Start Date&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At this time, we do not have planned openings for interns, but motivated students are welcome to reach out to discuss future opportunities.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;our-commitment&#34;&gt;Our Commitment&lt;/h2&gt;
+&lt;p&gt;We are committed to building an &lt;strong&gt;inclusive, collaborative, and supportive research environment&lt;/strong&gt;.&lt;br&gt;
+Our group values open discussion, mutual mentorship, and intellectual risk-taking—and we believe that diverse perspectives are essential for scientific discovery.&lt;/p&gt;
+&lt;p&gt;If our research resonates with you, &lt;strong&gt;we would love to hear from you.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Get in touch — Yihang Wang:&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:yxw2626@case.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Email&#34; style=&#34;margin-right: 1rem;&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://x.com/yihangw789&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;X (Twitter)&#34; style=&#34;margin-right: 1rem;&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://scholar.google.com/citations?user=jGmIUJkAAAAJ&amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Google Scholar&#34; style=&#34;margin-right: 1rem;&#34;&gt;&lt;i class=&#34;ai ai-google-scholar&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://yhwang17.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; aria-label=&#34;Website&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:63890/teaching/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CHEM 113.&lt;/strong&gt; Principles of Chemistry Laboratory. (Fall 2025)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CHEM 352/452&lt;/strong&gt; &lt;a href=&#34;http://localhost:63890/uploads/CHEM-352-452-Spring-2026-Syllabus.pdf&#34;&gt;AI in Chemistry&lt;/a&gt; (Spring 2026)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://localhost:63890/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:63890/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63890/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
