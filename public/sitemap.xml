@@ -2,113 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:56080/travel/</loc>
+    <loc>http://localhost:60071/travel/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/authors/</loc>
+    <loc>http://localhost:60071/authors/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/post/</loc>
+    <loc>http://localhost:60071/post/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/post/25-12-01-welcome-yiming/</loc>
+    <loc>http://localhost:60071/post/25-12-01-welcome-yiming/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/yihang-wang/</loc>
+    <loc>http://localhost:60071/author/yihang-wang/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/nour-elhendawy/</loc>
+    <loc>http://localhost:60071/author/nour-elhendawy/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/sulekha-kosliya-m/</loc>
+    <loc>http://localhost:60071/author/sulekha-kosliya-m/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/post/25-11-21-new_members/</loc>
+    <loc>http://localhost:60071/post/25-11-21-new_members/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/post/25-11-18-first-publication/</loc>
+    <loc>http://localhost:60071/post/25-11-18-first-publication/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/publication-type/article/</loc>
+    <loc>http://localhost:60071/publication-type/article/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/chenglin-luo/</loc>
+    <loc>http://localhost:60071/author/chenglin-luo/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/publication_types/</loc>
+    <loc>http://localhost:60071/publication_types/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/publication/</loc>
+    <loc>http://localhost:60071/publication/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/renjie-zhao/</loc>
+    <loc>http://localhost:60071/author/renjie-zhao/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/publication/preprint/</loc>
+    <loc>http://localhost:60071/publication/preprint/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/yihang-wang/</loc>
+    <loc>http://localhost:60071/author/yihang-wang/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/yiquan-zhang/</loc>
+    <loc>http://localhost:60071/author/yiquan-zhang/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/tour/</loc>
+    <loc>http://localhost:60071/tour/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/</loc>
+    <loc>http://localhost:60071/</loc>
     <lastmod>2025-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/join-us/</loc>
+    <loc>http://localhost:60071/join-us/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/teaching/</loc>
+    <loc>http://localhost:60071/teaching/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/people/</loc>
+    <loc>http://localhost:60071/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/admin/</loc>
+    <loc>http://localhost:60071/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/arnav-brahmasandra/</loc>
+    <loc>http://localhost:60071/author/arnav-brahmasandra/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/categories/</loc>
+    <loc>http://localhost:60071/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/oliver-johnson/</loc>
+    <loc>http://localhost:60071/author/oliver-johnson/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/tags/</loc>
+    <loc>http://localhost:60071/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/yiming-chen/</loc>
+    <loc>http://localhost:60071/author/yiming-chen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:56080/author/zhong-yu-xu/</loc>
+    <loc>http://localhost:60071/author/zhong-yu-xu/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

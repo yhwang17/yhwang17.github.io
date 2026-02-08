@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yiming Chen | Wang Research Group</title>
-    <link>http://localhost:56080/author/yiming-chen/</link>
-      <atom:link href="http://localhost:56080/author/yiming-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60071/author/yiming-chen/</link>
+      <atom:link href="http://localhost:60071/author/yiming-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiming Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:56080/author/yiming-chen/avatar_hu_92c31859fa9966c3.jpg</url>
+      <url>http://localhost:60071/author/yiming-chen/avatar_hu_92c31859fa9966c3.jpg</url>
       <title>Yiming Chen</title>
-      <link>http://localhost:56080/author/yiming-chen/</link>
+      <link>http://localhost:60071/author/yiming-chen/</link>
     </image>
     
   </channel>

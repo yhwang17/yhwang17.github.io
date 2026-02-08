@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nour Elhendawy | Wang Research Group</title>
-    <link>http://localhost:56080/author/nour-elhendawy/</link>
-      <atom:link href="http://localhost:56080/author/nour-elhendawy/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60071/author/nour-elhendawy/</link>
+      <atom:link href="http://localhost:60071/author/nour-elhendawy/index.xml" rel="self" type="application/rss+xml" />
     <description>Nour Elhendawy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:56080/author/nour-elhendawy/avatar_hu_e3cd58e87a51d844.jpg</url>
+      <url>http://localhost:60071/author/nour-elhendawy/avatar_hu_e3cd58e87a51d844.jpg</url>
       <title>Nour Elhendawy</title>
-      <link>http://localhost:56080/author/nour-elhendawy/</link>
+      <link>http://localhost:60071/author/nour-elhendawy/</link>
     </image>
     
     <item>
       <title>Welcome Our New PhD Students!</title>
-      <link>http://localhost:56080/post/25-11-21-new_members/</link>
+      <link>http://localhost:60071/post/25-11-21-new_members/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56080/post/25-11-21-new_members/</guid>
-      <description>&lt;p&gt;Our team is growing! We are happy to welcome two new PhD students, &lt;a href=&#34;http://localhost:56080/author/sulekha/&#34;&gt;Sulekha&lt;/a&gt; and &lt;a href=&#34;http://localhost:56080/author/nour/&#34;&gt;Nour&lt;/a&gt; to the lab! Their fresh ideas and diverse expertise will play a key role in pushing our research forward.&lt;/p&gt;</description>
+      <guid>http://localhost:60071/post/25-11-21-new_members/</guid>
+      <description>&lt;p&gt;Our team is growing! We are happy to welcome two new PhD students, &lt;a href=&#34;http://localhost:60071/author/sulekha/&#34;&gt;Sulekha&lt;/a&gt; and &lt;a href=&#34;http://localhost:60071/author/nour/&#34;&gt;Nour&lt;/a&gt; to the lab! Their fresh ideas and diverse expertise will play a key role in pushing our research forward.&lt;/p&gt;</description>
     </item>
     
   </channel>
