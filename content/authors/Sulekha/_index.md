@@ -4,13 +4,13 @@ title: Sulekha Kosliya M
 
 # Full Name (for SEO)
 first_name: Sulekha
-last_name: Kosliya M
+last_name: Kosliya Muhammed Raffi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Graduate Student
+role: Ph.D. Student, Department of Chemistry
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. student working on reinforcement learning–driven molecular simulations, with a background in computational Chemistry and biomolecular modeling.
+bio: Always drawn to chemistry, now exploring how AI brings a fresh perspective to molecular research.
 
 interests:
   - Reinforcement Learning
   - Molecular Dynamics Simulations
-  - Machine Learning for Chemistry
-  - Computational Biophysics
-  - Theoretical and Computational Chemistry
+  - Biophysics
+  - Theoretical Chemistry
 
 education:
   courses:
@@ -34,6 +33,7 @@ education:
       year: 2025–Present
     - course: M.Sc. in Chemistry
       institution: Mahatma Gandhi University, Kerala, India
+      honors: Graduated with First Rank
       year: 2024
     - course: B.Sc. in Chemistry
       institution: University of Calicut, Kerala, India
@@ -68,6 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Sulekha Kosliya M is a first-year Ph.D student in the Department of Chemistry at Case Western Reserve University, working under the supervision of Dr. Yihang Wang. Her research focuses on integrating reinforcement learning with molecular dynamics simulations to study biomolecular systems. She is currently developing and applying RL-based frameworks for enhanced sampling and data-driven analysis of molecular simulations.
-
-She holds an M.Sc. in Chemistry from Mahatma Gandhi University, where she graduated with first rank, and a B.Sc. in Chemistry from the University of Calicut. Prior to joining CWRU, she was a research intern at Michigan Technological University (2024), where she conducted computational Chemistry research involving density functional theory and molecular dynamics simulations applied to biomolecular systems.
+Sulekha Kosliya M is a first-year Ph.D. student whose research focuses on integrating reinforcement learning with molecular dynamics simulations to study biomolecular systems, with an emphasis on enhanced sampling and data-driven analysis of molecular simulations. Prior to joining CWRU, in 2024, she was a research intern at Michigan Technological University, where she conducted computational chemistry research involving density functional theory and molecular dynamics simulations applied to biomolecular systems. 
