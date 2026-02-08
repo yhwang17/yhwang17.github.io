@@ -31,9 +31,10 @@ education:
     - course: Ph.D. in Chemistry
       institution: Case Western Reserve University
       year: 2025–Present
-    - course: M.Sc. in Chemistry (Graduated with First Rank)
+    - course: M.Sc. in Chemistry 
       institution: Mahatma Gandhi University, Kerala, India
       year: 2024
+      description: Graduated with First Rank
     - course: B.Sc. in Chemistry
       institution: University of Calicut, Kerala, India
       year: 2022
